@@ -35,7 +35,7 @@ const Navbar = () => {
       <Link to="/signup">Signup Page</Link>
       <Link to="/saved">
         Saved Recipe
-        <span className="badge">-{savedRecipesCount}</span>
+        <span className="badge">-:{savedRecipesCount}</span>
       </Link>
     </div>
   );

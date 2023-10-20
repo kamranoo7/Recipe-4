@@ -8,7 +8,7 @@ import RecipeSearch from './Component/RecipeSearch';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+    <Navbar/>
     <Allroutes/>
     </div>
   );
