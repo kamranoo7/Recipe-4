@@ -7,7 +7,7 @@
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; /* Background color for the navbar */
   color: rgb(20, 18, 18);
   opacity: 6;
-  position: fixed;
+  
   top: 0;
   left: 0;
   width: 100%;
