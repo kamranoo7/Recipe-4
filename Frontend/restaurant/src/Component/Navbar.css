@@ -45,7 +45,11 @@
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
-    padding: 10px;
+    padding: 0px;
+    height: 150px;
+    border-radius: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
   }
 
   .navbar a {

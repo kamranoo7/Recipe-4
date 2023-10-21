@@ -39,11 +39,7 @@ const SavedRecipe = () => {
 }
   return (
     <div>
-      <h1 style={
-      {
-        marginTop:"50px"
-      }
-      }>Saved Recipe</h1>
+      <h1 className='.xe' >Saved Recipe</h1>
     <div className="saved-recipe-container">
       
       {data.length > 0 &&
